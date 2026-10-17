@@ -1,8 +1,0 @@
-../Core/Src/VL53L0X.c:11:13:wr	1
-../Core/Src/VL53L0X.c:16:16:rd	1
-../Core/Src/VL53L0X.c:24:13:wr_list	2
-../Core/Src/VL53L0X.c:31:13:wait_reg	4
-../Core/Src/VL53L0X.c:42:13:get_spad_info	2
-../Core/Src/VL53L0X.c:66:13:ref_calibration	2
-../Core/Src/VL53L0X.c:94:6:VL53L0X_Init	10
-../Core/Src/VL53L0X.c:162:10:VL53L0X_Dist	3
