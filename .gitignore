@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+Debug/
+Release/
+.settings/
+*.launch
+.DS_Store
